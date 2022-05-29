@@ -1,6 +1,6 @@
 # Atividade banco de dados MySQL curso Full Stack SOITECH :bookmark_tabs:
 
-![](C:\Users\Davidson&Paty\Desktop\Curso-Full-Stack-Soitech\AladSql\Nova pasta\sql-imagem.jpg)
+![](https://github.com/Deivison-Vitorino/Desafio-SQL-Curso-Soitech/blob/master/Nova%20pasta/sql-imagem.jpg)
 
 
 
